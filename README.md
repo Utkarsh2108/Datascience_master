@@ -1,1 +1,2 @@
-# this is the my course learning assingments 
+# This is the my learning course assignments.
+

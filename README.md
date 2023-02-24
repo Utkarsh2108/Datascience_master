@@ -202,4 +202,4 @@ From Bounding Box To Polygon Masks 26 Jun'23 Image Segmentation
 31 Aug'23 Interview Preparation
 1 Sep'23 Profile Building
 2 Sep'23 Apply For Jobs
-``1
+```

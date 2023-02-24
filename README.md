@@ -1,5 +1,5 @@
-# This is the my learning course assignments.
-
+## This is the my learning course assignments.
+### you will learn :
  - Python
 - Statistics
 - Machine learning
